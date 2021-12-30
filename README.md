@@ -1,2 +1,2 @@
 # Project2
-Bank Management Console Application using Core Java
+Bank Management Application using Core Java
